@@ -1,0 +1,7 @@
+=== Fisher's Test: Liu vs Xiaoyu ===
+        study2
+study1    In Not in
+  In       5    139
+  Not in 138 485230
+[1] "p-value: 9.61285982270545e-10"
+[1] "odds ratio: 126.235358587603"

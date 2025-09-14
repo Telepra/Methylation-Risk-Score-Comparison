@@ -1,0 +1,80 @@
+=== Fisher's Test: Lohoff vs Liu ===
+        study2
+study1   In Not in
+  In     15    314
+  Not in 80  19069
+[1] "p-value: 6.16747191330674e-11"
+[1] "odds ratio: 11.3813048524892"
+
+=== Fisher's Test: Lohoff vs McCartney ===
+        study2
+study1    In Not in
+  In      65    264
+  Not in 203  18946
+[1] "p-value: 8.65771486836851e-57"
+[1] "odds ratio: 22.957626621786"
+
+=== Fisher's Test: Lohoff vs Bernabeu ===
+        study2
+study1    In Not in
+  In      85    244
+  Not in 387  18762
+[1] "p-value: 2.90962479428505e-63"
+[1] "odds ratio: 16.8808454172795"
+
+=== Fisher's Test: Lohoff vs Xiaoyu ===
+        study2
+study1   In Not in
+  In     11    318
+  Not in 90  19059
+[1] "p-value: 1.10989112814425e-06"
+[1] "odds ratio: 7.32447126316756"
+
+=== Fisher's Test: Liu vs McCartney ===
+        study2
+study1    In Not in
+  In       8     87
+  Not in 260  19123
+[1] "p-value: 5.00425818458938e-05"
+[1] "odds ratio: 6.76127695811854"
+
+=== Fisher's Test: Liu vs Bernabeu ===
+        study2
+study1    In Not in
+  In      32     63
+  Not in 440  18943
+[1] "p-value: 3.42016549943882e-28"
+[1] "odds ratio: 21.8526471955179"
+
+=== Fisher's Test: Liu vs Xiaoyu ===
+        study2
+study1   In Not in
+  In      6     89
+  Not in 95  19288
+[1] "p-value: 1.00164492418483e-05"
+[1] "odds ratio: 13.6836033589338"
+
+=== Fisher's Test: McCartney vs Bernabeu ===
+        study2
+study1    In Not in
+  In      35    233
+  Not in 437  18773
+[1] "p-value: 4.20793062304963e-16"
+[1] "odds ratio: 6.45148912116361"
+
+=== Fisher's Test: McCartney vs Xiaoyu ===
+        study2
+study1   In Not in
+  In      8    260
+  Not in 93  19117
+[1] "p-value: 7.75097041370532e-05"
+[1] "odds ratio: 6.32324805932575"
+
+=== Fisher's Test: Bernabeu vs Xiaoyu ===
+        study2
+study1   In Not in
+  In     23    449
+  Not in 78  18928
+[1] "p-value: 2.29171565802473e-16"
+[1] "odds ratio: 12.4247634737274"
+> 

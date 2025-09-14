@@ -1,0 +1,47 @@
+=== Fisher's Test: Lohoff vs McCartney ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 296.9783 512.4858
+sample estimates:
+odds ratio 
+  390.2385 
+
+Observed odds ratio: 390.2385 
+Empirical p-value (permutation): 0 
+
+=== Fisher's Test: Lohoff vs Bernabeu ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 162.0544 282.7721
+sample estimates:
+odds ratio 
+  216.5575 
+
+Observed odds ratio: 216.5575 
+Empirical p-value (permutation): 0 
+
+=== Fisher's Test: McCartney vs Bernabeu ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  82.56488 171.95173
+sample estimates:
+odds ratio 
+  120.7001 
+
+Observed odds ratio: 120.7001 
+Empirical p-value (permutation): 0 

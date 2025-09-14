@@ -1,0 +1,23 @@
+=== Fisher's Test: Lohoff vs McCartney ===
+        study2
+study1    In Not in
+  In      75    444
+  Not in 375 864966
+[1] "p-value: 3.65388692160578e-158"
+[1] "odds ratio: 390.238461735185"
+
+=== Fisher's Test: Lohoff vs Bernabeu ===
+        study2
+study1    In Not in
+  In      67    452
+  Not in 592 864748
+[1] "p-value: 6.85516581730792e-126"
+[1] "odds ratio: 216.557548792604"
+
+=== Fisher's Test: McCartney vs Bernabeu ===
+        study2
+study1    In Not in
+  In      36    414
+  Not in 623 864787
+[1] "p-value: 3.18966659203006e-60"
+[1] "odds ratio: 120.700081635944"

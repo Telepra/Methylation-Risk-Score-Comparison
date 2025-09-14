@@ -1,0 +1,159 @@
+=== Fisher's Test: Lohoff vs Liu ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value = 6.167e-11
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  6.019063 20.185726
+sample estimates:
+odds ratio 
+   11.3813 
+
+Observed odds ratio: 11.3813 
+Empirical p-value (permutation): 0 
+
+=== Fisher's Test: Lohoff vs McCartney ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 16.65505 31.37455
+sample estimates:
+odds ratio 
+  22.95763 
+
+Observed odds ratio: 22.95763 
+Empirical p-value (permutation): 0 
+
+=== Fisher's Test: Lohoff vs Bernabeu ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 12.76439 22.16936
+sample estimates:
+odds ratio 
+  16.88085 
+
+Observed odds ratio: 16.88085 
+Empirical p-value (permutation): 0 
+
+=== Fisher's Test: Lohoff vs Xiaoyu ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value = 1.11e-06
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  3.495396 13.913457
+sample estimates:
+odds ratio 
+  7.324471 
+
+Observed odds ratio: 7.324471 
+Empirical p-value (permutation): 0 
+
+=== Fisher's Test: Liu vs McCartney ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value = 5.004e-05
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  2.800763 14.119035
+sample estimates:
+odds ratio 
+  6.761277 
+
+Observed odds ratio: 6.761277 
+Empirical p-value (permutation): 0 
+
+=== Fisher's Test: Liu vs Bernabeu ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 13.66554 34.36928
+sample estimates:
+odds ratio 
+  21.85265 
+
+Observed odds ratio: 21.85265 
+Empirical p-value (permutation): 0 
+
+=== Fisher's Test: Liu vs Xiaoyu ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value = 1.002e-05
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  4.772623 32.070259
+sample estimates:
+odds ratio 
+   13.6836 
+
+Observed odds ratio: 13.6836 
+Empirical p-value (permutation): 1e-04 
+
+=== Fisher's Test: McCartney vs Bernabeu ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value = 4.208e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 4.332176 9.366174
+sample estimates:
+odds ratio 
+  6.451489 
+
+Observed odds ratio: 6.451489 
+Empirical p-value (permutation): 0 
+
+=== Fisher's Test: McCartney vs Xiaoyu ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value = 7.751e-05
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  2.624315 13.163007
+sample estimates:
+odds ratio 
+  6.323248 
+
+Observed odds ratio: 6.323248 
+Empirical p-value (permutation): 1e-04 
+
+=== Fisher's Test: Bernabeu vs Xiaoyu ===
+
+	Fisher's Exact Test for Count Data
+
+data:  contingency
+p-value = 2.292e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  7.373576 20.210376
+sample estimates:
+odds ratio 
+  12.42476 
+
+Observed odds ratio: 12.42476 
+Empirical p-value (permutation): 0 
